@@ -19,3 +19,7 @@
 
 1. Upload file for analysis 
 ![alt text](https://github.com/KishanTeli/pca_python_application/blob/main/Screenshots/first_view.png "Upload File")
+
+2. Analysis graph generated after file uploaded
+![alt text](https://github.com/KishanTeli/pca_python_application/blob/main/Screenshots/graph_view.png "graph view")
+
