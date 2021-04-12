@@ -15,7 +15,7 @@
     - The amounts each variable contribute to the slope of the Eigenvalue are the Loading Scores
 5. Repeat this process creating as many Principle Components as there are variables which each Principle Component being perpendicular to the existing ones
 
-##Output
+## Output
 
 1. Upload file for analysis 
 ![alt text](https://github.com/KishanTeli/pca_python_application/blob/main/Screenshots/first_view.png "Upload File")
