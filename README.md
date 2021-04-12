@@ -27,8 +27,11 @@
 ##Settings
 
 1. You can change variable parameters by changing
+
 ![alt text](https://github.com/KishanTeli/pca_python_application/blob/main/Screenshots/variable.png "variable")
 
 2. You can change PCA variable for different graph
+
+
 ![alt text](https://github.com/KishanTeli/pca_python_application/blob/main/Screenshots/pca.png "PCA")
 
