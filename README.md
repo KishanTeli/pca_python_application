@@ -24,7 +24,7 @@
 ![alt text](https://github.com/KishanTeli/pca_python_application/blob/main/Screenshots/graph_view.png "graph view")
 
 
-##Settings
+## Settings
 
 1. You can change variable parameters by changing
 
